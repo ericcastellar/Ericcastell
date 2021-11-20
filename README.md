@@ -12,8 +12,6 @@
 
 - 📚 I'm now learning project management, AWS and PHP, through courses.
 
-<br><br>
-
 ## ⚙️ &nbsp;GitHub Stats
 
 <div align="left">
