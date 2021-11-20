@@ -4,7 +4,7 @@
 
 <img src="https://user-images.githubusercontent.com/86270246/142737815-431e40b1-db6b-44fa-989d-41995c91adef.gif" alt="processing" width="200px" align="right">
 
-- 👨‍💻 I’m currently studying information technology at CEFET/RJ.
+- 👨‍💻 I’m currently studying Information Technology at CEFET/RJ.
 
 - 💡 Just trying my best to reach my goals and ambitions.
 
