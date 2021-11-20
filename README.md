@@ -2,10 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eric-castellar-953791225/) [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&amp;logo=microsoft-outlook&amp;logoColor=white)](mailto:eric.castellar@outlook.com) [![Instagram](https://img.shields.io/badge/-Instagram-833ab4?logo=Instagram&logoColor=white&style=flat)](https://www.instagram.com/mustensei/)
 
-
-<div align="right">
-<img src="https://user-images.githubusercontent.com/86270246/142737815-431e40b1-db6b-44fa-989d-41995c91adef.gif" alt="processing" width="200px">
-</div>
+<img src="https://user-images.githubusercontent.com/86270246/142737815-431e40b1-db6b-44fa-989d-41995c91adef.gif" alt="processing" width="200px" align="right">
 
 - 👨‍💻 I’m currently studying information technology at CEFET/RJ.
 
