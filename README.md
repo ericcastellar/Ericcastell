@@ -10,7 +10,7 @@
 
 - 📱 I have an anime page on instagram, click the profile link to check it out.
 
-- 📚 At the moment i'm learning project management, AWS and PHP, through courses.
+- 📚 At the moment, i'm learning project management, AWS and PHP, through courses.
 
 ## ⚙️ &nbsp;GitHub Stats
 
