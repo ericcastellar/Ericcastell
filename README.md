@@ -16,8 +16,7 @@
 
 <div align="left">
   <a href="https://github.com/Ericcastell">
-  <img height="150em" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ericcastell&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ericcastell&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ## 🖥️ &nbsp;Skills
