@@ -2,8 +2,6 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eric-castellar-953791225/) [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&amp;logo=microsoft-outlook&amp;logoColor=white)](mailto:eric.castellar@outlook.com)
 
-<img src="https://user-images.githubusercontent.com/86270246/167884139-0be36fed-4bb3-410a-a595-6222a06e85fc.gif" alt="processing" width="200px" align="right">
-
 - 👨‍💻 I’m currently studying Information Technology at CEFET/RJ.
 
 - 💡 Just trying my best to reach my goals and ambitions.
