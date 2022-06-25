@@ -1,4 +1,4 @@
-<h1 align="left">Hey <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Eric Castellar</h1>
+<h1 align="left">Hey <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="35">, I'm Eric Castellar</h1>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eric-castellar-953791225/) [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&amp;logo=microsoft-outlook&amp;logoColor=white)](mailto:eric.castellar@outlook.com)
 
@@ -26,11 +26,11 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/86270246/167881063-7b1d3bd6-845d-426d-81e7-0ce87ec0e536.gif" alt="processing" width="350px" align="right">
+<img src="https://user-images.githubusercontent.com/86270246/167881063-7b1d3bd6-845d-426d-81e7-0ce87ec0e536.gif" alt="processing" width="450" align="right">
 
 ## 💾 Lang Stats
 
 <div align="left">
   <a href="https://github.com/Ericcastell">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ericcastell&layout=compact&langs_count=7&theme=nightowl"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ericcastell&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
