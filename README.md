@@ -26,7 +26,7 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/86270246/167881063-7b1d3bd6-845d-426d-81e7-0ce87ec0e536.gif" alt="processing" width="450" align="right">
+<img src="https://user-images.githubusercontent.com/86270246/167881063-7b1d3bd6-845d-426d-81e7-0ce87ec0e536.gif" alt="processing" width="370" align="right">
 
 ## 💾 Lang Stats
 
