@@ -32,5 +32,5 @@
 
 <div align="left">
   <a href="https://github.com/ericcastellar">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ericcastell&layout=compact&langs_count=7&theme=nightowl"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericcastellar&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
