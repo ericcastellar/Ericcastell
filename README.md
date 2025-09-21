@@ -1,6 +1,6 @@
 <h1 align="left">Hey <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="35">, I'm Eric Castellar</h1>
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eric-castellar-953791225/) [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&amp;logo=microsoft-outlook&amp;logoColor=white)](mailto:eric.castellar@outlook.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ericcastellar) [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&amp;logo=microsoft-outlook&amp;logoColor=white)](mailto:eric.castellar@outlook.com)
 
 - 👨‍💻 I’m currently working on EBC as an IT coordinator, working in the area of ​​information security.
 
@@ -31,6 +31,6 @@
 ## 💾 Lang Stats
 
 <div align="left">
-  <a href="https://github.com/Ericcastell">
+  <a href="https://github.com/ericcastellar">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ericcastell&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
